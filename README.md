@@ -1,16 +1,21 @@
-# email_authentication
+# 🏵 Google Auth
 
-A new Flutter project.
+Simple UI Screen 👍
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Shalaby-VBS/Google_Auth/assets/149938388/93a264e6-b4fe-462d-8ec4-cf4ab504d307
+
+
+## 🛠 Dependencies
+
+1️⃣ firebase_core: ^2.21.0
+
+2️⃣ firebase_auth: ^4.2.0
+
+3️⃣ google_sign_in: ^6.1.6
